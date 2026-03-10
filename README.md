@@ -1,2 +1,11 @@
 # IMD_template_repo
 This repository has all the files you need to comply with DGEC Rules of Behavior. Feel free to copy these files and (after editing for your specific use case) add them to your repository or use this repository as a template when creating a new repsoitory.
+
+## Notes:
+All DGEC repos must have contact information for the repo authors. In this template repo, that information is contained within the DESCRIPTION file. If you do not wish to have a DESCRIPTION file, that is fine but you must include contact information for the authors in the README or elsewhere.
+
+## IMD Repositories:
+Repositories created by or for the Inventory and Monitoring Division on NPS must include the following keywords ("topics"): nrss, imd
+
+## Additional Inforamtion
+For more information, please reference the [DOI DGEC SharePoint Page](https://doimspp.sharepoint.com/sites/ocio-DOI-GitHub-Enterprise/SitePages/Home.aspx) and the [IMD DGEC Best Practices Page](https://doimspp.sharepoint.com/sites/ocio-DOI-GitHub-Enterprise/SitePages/Home.aspx).
