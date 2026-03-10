@@ -8,4 +8,4 @@ All DGEC repos must have contact information for the repo authors. In this templ
 Repositories created by or for the Inventory and Monitoring Division on NPS **must include the following keywords ("topics"): nrss, imd**
 
 ## Additional Information
-For more information, please reference the [DOI DGEC SharePoint Page](https://doimspp.sharepoint.com/sites/ocio-DOI-GitHub-Enterprise/SitePages/Home.aspx) and the [IMD DGEC Best Practices Page](https://doimspp.sharepoint.com/sites/ocio-DOI-GitHub-Enterprise/SitePages/Home.aspx).
+For more information, please reference the [DOI DGEC SharePoint Page](https://doimspp.sharepoint.com/sites/ocio-DOI-GitHub-Enterprise/SitePages/Home.aspx) and the [IMD DGEC Best Practices Page](https://doimspp.sharepoint.com/sites/nps-nrss-imdiv/publication/SitePages/Code-and-Development.aspx).
