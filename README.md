@@ -9,3 +9,6 @@ Repositories created by or for the Inventory and Monitoring Division on NPS **mu
 
 ## Additional Information
 For more information, please reference the [DOI DGEC SharePoint Page](https://doimspp.sharepoint.com/sites/ocio-DOI-GitHub-Enterprise/SitePages/Home.aspx) and the [IMD DGEC Best Practices Page](https://doimspp.sharepoint.com/sites/nps-nrss-imdiv/publication/SitePages/Code-and-Development.aspx).
+
+## Contact information
+NPS IMD staff with questions about requresting new repositories or migrating existing repositories should contact [Rob Baker](mailto:robert_baker@nps.gov?subject="DGEC Repositories").
