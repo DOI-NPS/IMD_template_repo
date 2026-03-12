@@ -1,5 +1,5 @@
 # IMD_template_repo
-This repository has all the files you need to comply with DGEC Rules of Behavior. Feel free to copy these files and (after editing for your specific use case) add them to your repository or use this repository as a template when creating a new repsoitory.
+This repository has all the files you need to comply with [DGEC Rules of Behavior](https://doimspp.sharepoint.com/sites/ocio-DOI-GitHub-Enterprise/Shared%20Documents/General/Rules%20of%20Behavior/DGEC%20Rules%20of%20Behavior%20%20-%20Write.pdf?web=1). Feel free to copy these files and (after editing for your specific use case) add them to your repository or use this repository as a template when creating a new repsoitory.
 
 ## Notes:
 All DGEC repos must have contact information for the repo authors. In this template repo, that information is contained within the DESCRIPTION file. If you do not wish to have a DESCRIPTION file, that is fine but you must include contact information for the authors in the README or elsewhere.
